@@ -1,0 +1,74 @@
+{
+    "jobs": [
+        {
+            "load": 1,
+            "start_hour": 9,
+            "start_minute": 10,
+            "end_hour":9,
+            "end_minute": 20
+        },
+        {
+            "load": 1,
+            "start_hour": 9,
+            "start_minute": 10,
+            "end_hour":9,
+            "end_minute": 24
+        },
+        {
+            "load": 6,
+            "start_hour": 9,
+            "start_minute": 20,
+            "end_hour":9,
+            "end_minute": 33
+        },
+        {
+            "load": 1,
+            "start_hour": 9,
+            "start_minute": 10,
+            "end_hour":9,
+            "end_minute": 58
+        },
+        {
+            "load": 1,
+            "start_hour": 9,
+            "start_minute": 24,
+            "end_hour":10,
+            "end_minute": 0
+        },
+        {
+            "load": 3,
+            "start_hour": 9,
+            "start_minute": 58,
+            "end_hour":10,
+            "end_minute": 52
+        },
+        {
+            "load": 1,
+            "start_hour": 9,
+            "start_minute": 10,
+            "end_hour":11,
+            "end_minute": 2
+        },
+        {
+            "load": 1,
+            "start_hour": 9,
+            "start_minute": 10,
+            "end_hour":11,
+            "end_minute": 58
+        },
+        {
+            "load": 1,
+            "start_hour": 11,
+            "start_minute": 2,
+            "end_hour":15,
+            "end_minute": 31
+        },
+        {
+            "load": 1,
+            "start_hour": 11,
+            "start_minute": 58,
+            "end_hour":16,
+            "end_minute": 3
+        }
+    ]
+}
